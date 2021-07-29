@@ -23,7 +23,7 @@ My name is Gabriel Fonseca and I'm a software developer based and living in Port
 <!-- Social Media -->
 <p>You can find me on:</p>
 
-[<img src="https://angularicons.com/media/pages/icons/github/7a39a5ac82-1602599452/github.svg" width="35" height="35">][3][<img src="https://angularicons.com/media/pages/icons/twitter/99ac4b6611-1602599461/twitter.svg" width="35" height="35">][1][<img src="https://angularicons.com/media/pages/icons/linkedin-2/0306677d58-1602599454/linkedin-2.svg" width="35" height="35">][2]
+[<img src="https://angularicons.com/media/pages/icons/github/7a39a5ac82-1602599452/github.svg" width="30" height="30">][3][<img src="https://angularicons.com/media/pages/icons/twitter/99ac4b6611-1602599461/twitter.svg" width="30" height="30">][1][<img src="https://angularicons.com/media/pages/icons/linkedin-2/0306677d58-1602599454/linkedin-2.svg" width="30" height="30">][2]
 
 <!-- Links to your social media accounts -->
 [1]: https://twitter.com/GabrieFonseca_
