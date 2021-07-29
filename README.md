@@ -1,4 +1,4 @@
-[![Header](banner.jpg "Header")](https://gabrielfonseca.tech/)
+<!--[![Header](banner.jpg "Header")](https://gabrielfonseca.tech/)-->
 
 ## Hi there, I'm Gabriel 👋
 
