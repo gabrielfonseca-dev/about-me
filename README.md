@@ -37,5 +37,5 @@ My name is Gabriel Fonseca and I'm a software developer based and living in Port
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/GabrielFonseca_
-[2]: https://www.linkedin.com/in/gabrielfonseca/
+[2]: linkedin.com/in/gabriel-fonseca-4a8b6b1a9
 [3]: https://github.com/gabrielfonseca-dev
