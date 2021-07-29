@@ -13,10 +13,12 @@ My name is Gabriel Fonseca and I'm a software developer based and living in Port
 ### Languages and Tools:
 - JavaScript
 - PHP
+- C++
 - SQL
+
+### What will I learn next:
 - MongoDB
-- React
-- Node JS
+- React JS
 
 ---
 
