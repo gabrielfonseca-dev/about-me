@@ -11,6 +11,6 @@ My name is [Gabriel Fonseca](https://www.gabrielfonseca.tech/) and I'm a softwar
 - 💻   Technology Enthusiastic
 - 🧠   Learning JavaScript a bit more every day
 - ✏️   I maintain a web development blog at [gabrielfonseca.tech](https://www.gabrielfonseca.tech/)
-- 👀   Fan Fact: a spend most of my time on VS Code
+- 👀   Fan Fact: I spend most of my time on VS Code
 - 🥅   2021 Goal: Contribute more to my GitHub repositories
 - 💬   The two social platforms I'm more active are [Twitter](https://www.twitter.com/GabrieFonseca_) and [LinkedIn](https://linkedin.com/in/gabriel-fonseca-4a8b6b1a9). Feel free to connect and reach out to me there
